@@ -1,4 +1,13 @@
-This is a github repository for Medical Image Processing course, created in February 2020 by John A Sims 
+This is a github repository for Medical Physics experiments, created by John Andrew Sims, Bruno Murakami, Isabella Kobb Fernandes Stein and Jorge Lamar.
 
-It contains Jupyter notebook scripts for the different classes, since I have converted the material from Matlab to Python 3.
+We offer our articles and code to help in the teaching of modalities computed tomography and ultrasound.  If you are inspired by our ideas, please cite our articles, which have been presented in conference and are awaiting publication by IFMBE, Springer. 
 
+1. I.K.F. Stein, B. Murakami and J.A. Sims. "Development of a Visible Light Tomograph for Teaching Computed Tomography Concepts in Undergraduate Medical Physics Classrooms", Ribeirão Preto, Congresso Brasileiro de Engenharia Biomedica 2024, Ribeirão Preto, 2024.
+2. I.K.F. Stein and J.A. Sims. "Development of Laboratory Activities for Teaching Ultrasound Concepts in an Undergraduate Medical Physics Classroom", Ribeirão Preto, Congresso Brasileiro de Engenharia Biomedica 2024, Ribeirão Preto, 2024.
+
+We are in the process of developing resources to accompany these projects:
+1. Laboratory manual - different versions according to setting.
+2. Suggestions for how to apply to a wider curriculum in a school setting
+3. Selection of collaborative / social constructivist activities for students group work.
+
+Above all, we hope you find pleasure in using this work, and that it leads to raising the standards of education.  
